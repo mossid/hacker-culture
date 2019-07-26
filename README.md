@@ -53,3 +53,5 @@
 * [Godel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
 
 * [The Cathedral and the Bazaar](https://github.com/ganadist/catb)
+
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
